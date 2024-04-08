@@ -1,16 +1,13 @@
-<div align="center">
-  <img height="150" src="https://ibb.co/Tbcp2nC"  />
-</div>
+###
+
+
+<h1 align="center">hey there 👋</h1>
 
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=OsamaNabih.OsamaNabih&"  />
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
