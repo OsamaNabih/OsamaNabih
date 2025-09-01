@@ -12,7 +12,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-
+https://www.linkedin.com/in/osama-nabih/
 ###
 
 <p align="left">I'm Osama Nabih. Based in Cairo, Egypt, EET Timezone<br><br>
