@@ -15,7 +15,14 @@
 
 ###
 
-<p align="left">I'm Osama Nabih. from Egypt<br><br>- 🔭 I’m working as a Backend Software Engineering<br>- 📚 I'm currently learning Go<br>- ⚡ In my free time I worry about the economy</p>
+<p align="left">I'm Osama Nabih. Based in Cairo, Egypt, EET Timezone<br><br>
+  - 🔭 I’m currently a Software Developer Engineer at Microsoft<br>
+  - Focused on Backend<br>
+  - Interested in Cloud, DevOps, Data Engineering and Databases<br>
+  - CKAD Certified https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/342eb60a-b614-483d-bc72-f648859a2be0-osama-nabih-abdellatif-salem-5d97dbe0-d7c6-44af-81a0-877fde3b422c-certificate.pdf<br>
+  - Azure Fundamentals Certified, currently working towards Azure Developer Associate<br>
+  - ⚡ In my free time I worry about the economy
+</p>
 
 ###
 
